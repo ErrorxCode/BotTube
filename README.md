@@ -43,9 +43,9 @@ This Bot is made for **legal purposes only**. If you are tired of commenting on 
 This Bot is made in JAVA hence it is platform-independent. It can run on any platform where java (>16) is installed. However, for windows, there is a standalone **exe**. For other platforms and those who have java pre-installed on their system can download the **jar** file.
 
 
-<a href="https://github.com/ErrorxCode/InstaBot-BTK/releases/download/v1.5/Instabot_universal-jar.zip"><img alt="Download jar" height=40 src="https://dabuttonfactory.com/button.png?t=Downlad+jar&f=Calibri&ts=26&tc=fff&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=e69138"></a>
+<a href="https://github.com/ErrorxCode/BotTube/releases/download/1.0/BotTube.jar"><img alt="Download jar" height=40 src="https://dabuttonfactory.com/button.png?t=Downlad+jar&f=Calibri&ts=26&tc=fff&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=e69138"></a>
   
-<a href="https://github.com/ErrorxCode/InstaBot-BTK/releases/download/v1.5/Instabot_windows-jre.rar"><img alt="Download exe" height=40 src="https://dabuttonfactory.com/button.png?t=Downlad+exe&f=Calibri&ts=26&tc=f90&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=fff&bs=2&bc=f90"></a>
+<a href="https://github.com/ErrorxCode/BotTube/releases/download/1.0/BotTube.zip"><img alt="Download exe" height=40 src="https://dabuttonfactory.com/button.png?t=Downlad+exe&f=Calibri&ts=26&tc=f90&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=fff&bs=2&bc=f90"></a>
 
 
 
