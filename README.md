@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/27/18/83/360_F_427188386_DYLLGtl9YvYxc9K4q5pz2wpJfehbYohb.jpg">
+  <img src="bot-logo.png">
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ This Bot is made in JAVA hence it is platform-independent. It can run on any pla
 
 # Screenshot
 
-![](D:\Downloads\bot-ss.png)
+![](screenshot.png)
 
 This is the initial version of the BOT. More features will be added in *the future*...
 
