@@ -106,7 +106,7 @@ BotSurfing means that a bot surfs youtube on your behalf. It will comment on the
 
 
 1. Select the  4th option from the menu.
-2. Enter the keywords or query (Which you enter in the search bar of youtube). The bot will comment on the 10 videos matching your keywords. Videos on which the bot will comment will be sorted in chronological order of upload date.
+2. Enter the keywords or query (Which you enter in the search bar of youtube). The bot will comment on the 10 videos matching your keywords. Videos on which the bot will comment will be sorted in chronological order of upload date. You can enter multiple keywords each seperated by a comma.
 3. Enter the text you want to comment on each video.
 
 
