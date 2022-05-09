@@ -131,4 +131,4 @@ There's a lot of improvement needed in this BOT.  It also lacks many features. W
 
 You have learned to use this bot. Now you can sit and relax while your bot does it for you. Having said that, **Don't forget the disclaimer**.
 
-If you liked my hard work, you can give this bot a star or can follow me for more such bots. Like [BotGram](https://github.com/ErrorxCode/BotGram).
+If you liked my hard work, you can give this bot a star or can follow me for more such bots. Like [BotGram](https://github.com/ErrorxCode/BotGram)
