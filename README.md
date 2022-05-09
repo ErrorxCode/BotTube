@@ -45,8 +45,8 @@ This Bot is made in JAVA hence it is platform-independent. It can run on any pla
 
 
 <p align="left">
-  <img src="https://dabuttonfactory.com/button.png?t=Downlad+jar&f=Calibri&ts=26&tc=fff&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=e69138" href="">
-  <img src="https://dabuttonfactory.com/button.png?t=Downlad+exe&f=Calibri&ts=26&tc=f90&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=fff&bs=2&bc=f90" href="">
+  <img src="https://dabuttonfactory.com/button.png?t=Downlad+jar&f=Calibri&ts=26&tc=fff&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=e69138" href="https://github.com/ErrorxCode/BotTube/releases/download/1.0/BotTube.jar">
+  <img src="https://dabuttonfactory.com/button.png?t=Downlad+exe&f=Calibri&ts=26&tc=f90&hp=45&vp=20&w=200&h=50&c=11&bgt=unicolored&bgc=fff&bs=2&bc=f90" href="https://github.com/ErrorxCode/BotTube/releases/download/1.0/BotTube.zip">
 </p>
 
 
